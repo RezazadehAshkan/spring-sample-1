@@ -1,0 +1,1 @@
+$env:JAVA_TOOL_OPTIONS = "-Djavax.net.ssl.trustStore=NONE -Djavax.net.ssl.trustStoreType=Windows-ROOT"

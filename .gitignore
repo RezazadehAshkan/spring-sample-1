@@ -1,0 +1,85 @@
+### Maven ###
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+### Spring Tool Suite / Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings/
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Gradle output (in case mixed tooling is used) ###
+.gradle/
+build/
+
+### Java / application logs ###
+*.log
+*.log.*
+logs/
+hs_err_pid*
+replay_pid*
+
+### Environment and secrets ###
+.env
+.env.*
+!.env.example
+*.local
+*.key
+*.pem
+application-local.properties
+application-local.yml
+application-local.yaml
+
+### OS metadata ###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+### Temporary and backup files ###
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+*.bak
+
+### Virtual environments / package caches ###
+.venv/
+venv/
+__pycache__/
+
+### Local tooling ###
+.fake
